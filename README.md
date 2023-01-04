@@ -15,3 +15,10 @@
 - [IAM 정책](https://github.com/BOOOO0/aws-study/tree/main/aws-basic/iam-policy)
 - [IAM 역할](https://github.com/BOOOO0/aws-study/tree/main/aws-basic/iam-role)
 - [IAM 자격 증명 보고서](https://github.com/BOOOO0/aws-study/tree/main/aws-basic/iam-credentials-report)
+- [IAM 사용자와 그룹 생성하고 정책 연결](https://github.com/BOOOO0/aws-study/tree/main/aws-basic/iam-practice-summary)
+
+## EC2
+
+- [EC2 개요, 인스턴스 생성](https://github.com/BOOOO0/aws-study/tree/main/aws-basic/about-ec2)
+- [EC2 리눅스 서버 생성](https://github.com/BOOOO0/aws-study/tree/main/aws-basic/ec2-server-create)
+- [EC2 IAM 접근 권한 부여](https://github.com/BOOOO0/aws-study/tree/main/aws-basic/ec2-instance-role)
