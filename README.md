@@ -22,3 +22,8 @@
 - [EC2 개요, 인스턴스 생성](https://github.com/BOOOO0/aws-study/tree/main/aws-basic/about-ec2)
 - [EC2 리눅스 서버 생성](https://github.com/BOOOO0/aws-study/tree/main/aws-basic/ec2-server-create)
 - [EC2 IAM 접근 권한 부여](https://github.com/BOOOO0/aws-study/tree/main/aws-basic/ec2-instance-role)
+
+## VPC
+
+- [VPC](/aws-basic/vpc/README.md)
+  - [커스텀 VPC (퍼블릭 서브넷, 프라이빗 서브넷, 라우팅 테이블)](/aws-basic/vpc/custom-vpc/README.md)
